@@ -12,7 +12,7 @@ primary audience is.*
 |---------|-----------|
 | Repository URL |    |
 | Main/documentation website |    |
-| Year project was started |   |
+| Year project was started | kkkkkkk  |
 | Number of contributors in the past year | `git shortlog -se --since=2022-10-01` may be useful |
 | Number of contributors in the lifetime of the project |   |
 | Number of distinct affiliations | 1, 2-5, 5-10, >10 |
