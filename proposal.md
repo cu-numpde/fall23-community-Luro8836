@@ -3,8 +3,7 @@ Please edit this file and push to your repository.
 
 ## Software: *NAME_OF_PACKAGE_HERE*
 
-*Write a paragraph describing what the software does and who its
-primary audience is.*
+OpenFOAM is a free, open source CFD software created to solve problems from complex fluid flows involving chemical reactions, turbulence and heat transfer, to acoustics, solid mechanics and electromagnetics. It has a large user base across most areas of engineering and science, from both commercial and academic organizations.
 
 ### Stats
 
